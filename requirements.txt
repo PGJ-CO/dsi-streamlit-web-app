@@ -12,5 +12,5 @@ scikit-learn>=1.0.1
 pandas>=1.4.4
 joblib>=1.1.1
 protobuf>=3.14,<4.0
-click==8.<1 (or any compatible version)
+click==8.0.4 
 altair<5 (if necessary)
